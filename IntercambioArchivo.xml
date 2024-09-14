@@ -1,0 +1,39 @@
+<IntercambioTarjetaCredito>
+  <Sistema>
+    <Nombre>PasarelaPagoX</Nombre>
+    <Localizacion>
+      <URL>https://www.promerica.com</URL>
+      <Version>1.0</Version>
+    </Localizacion>
+  </Sistema>
+  <Tarjeta>
+    <Titular>
+      <Nombre>Juan Pérez</Nombre>
+    </Titular>
+    <NumeroTarjeta>1234567890123456</NumeroTarjeta>
+    <FechaExpiracion>2025-10</FechaExpiracion>
+    <CodigoSeguridad>123</CodigoSeguridad>
+  </Tarjeta>
+  <Cliente>
+    <ID>789456123</ID>
+    <Contacto>
+      <Correo>juanperez@ejemplo.com</Correo>
+    </Contacto>
+    <Direccion>
+      <Calle>15 calle zona 9</Calle>
+      <Municipio>1</Municipio>
+      <Departamento>12</Departamento>
+      <CodigoPostal>09001</CodigoPostal>
+      <Pais>GT</Pais>
+    </Direccion>
+  </Cliente>
+  <Transaccion>
+    <ID>TX987654321</ID>
+    <MontoDetalle>
+      <Monto>250.00</Monto>
+      <Moneda>Q</Moneda>
+    </MontoDetalle>
+    <FechaHora>2024-09-10T12:34:56</FechaHora>
+    <Estado>Pendiente</Estado>
+  </Transaccion>
+</IntercambioTarjetaCredito>
