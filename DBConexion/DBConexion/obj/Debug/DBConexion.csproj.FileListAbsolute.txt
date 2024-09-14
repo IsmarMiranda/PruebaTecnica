@@ -1,0 +1,7 @@
+C:\Users\IsmarMiranda\source\repos\DBConexion\DBConexion\bin\Debug\DBConexion.exe.config
+C:\Users\IsmarMiranda\source\repos\DBConexion\DBConexion\bin\Debug\DBConexion.exe
+C:\Users\IsmarMiranda\source\repos\DBConexion\DBConexion\bin\Debug\DBConexion.pdb
+C:\Users\IsmarMiranda\source\repos\DBConexion\DBConexion\obj\Debug\DBConexion.csproj.AssemblyReference.cache
+C:\Users\IsmarMiranda\source\repos\DBConexion\DBConexion\obj\Debug\DBConexion.csproj.CoreCompileInputs.cache
+C:\Users\IsmarMiranda\source\repos\DBConexion\DBConexion\obj\Debug\DBConexion.exe
+C:\Users\IsmarMiranda\source\repos\DBConexion\DBConexion\obj\Debug\DBConexion.pdb
