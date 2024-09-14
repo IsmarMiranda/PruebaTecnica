@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\IsmarMiranda\\Desktop\\.NET\\Prueba.NET\\Login\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0ABF546-7F9C-44D7-9C58-59ECC7515931}|Login\\Login.csproj|c:\\users\\ismarmiranda\\desktop\\.net\\prueba.net\\login\\login\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D0ABF546-7F9C-44D7-9C58-59ECC7515931}|Login\\Login.csproj|solutionrelative:login\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\IsmarMiranda\\Desktop\\.NET\\Prueba.NET\\Login\\Login\\Web.config",
+              "RelativeDocumentMoniker": "Login\\Web.config",
+              "ToolTip": "C:\\Users\\IsmarMiranda\\Desktop\\.NET\\Prueba.NET\\Login\\Login\\Web.config",
+              "RelativeToolTip": "Login\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-14T22:09:32.574Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
